@@ -16,13 +16,6 @@ Missing data and data preprocessing challenges.
 The dataset contains details such as passenger class, age, sex, embarked port, and whether they survived.
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 # Features
 
 Exploratory Data Analysis:
