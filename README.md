@@ -1,5 +1,5 @@
 
-#Titanic Dataset Analysis
+# Titanic Dataset Analysis
 
 This repository contains Python scripts and Jupyter Notebooks focused on performing Exploratory Data Analysis (EDA) on the Titanic dataset. The analysis leverages visualizations and data profiling to extract meaningful insights from the historic Titanic disaster dataset.
 
