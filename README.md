@@ -1,5 +1,5 @@
 
-### Titanic Dataset Analysis
+#Titanic Dataset Analysis
 
 This repository contains Python scripts and Jupyter Notebooks focused on performing Exploratory Data Analysis (EDA) on the Titanic dataset. The analysis leverages visualizations and data profiling to extract meaningful insights from the historic Titanic disaster dataset.
 
@@ -18,25 +18,25 @@ The dataset contains details such as passenger class, age, sex, embarked port, a
 
 ## Features
 
-# Exploratory Data Analysis:
+### Exploratory Data Analysis:
 
 Visualizations using seaborn and matplotlib.
 
 Analysis of survival rates by age, gender, and class.
 
-# Data Profiling:
+### Data Profiling:
 
 Comprehensive data profiling using pandas_profiling.
 
-# Data Preprocessing:
+### Data Preprocessing:
 
 Identifying and handling missing values.
 
 Summary statistics and distributions.
 
-### Setup and Requirements
+## Setup and Requirements
 
-# Prerequisites
+### Prerequisites
 
 To run the notebooks and scripts, ensure the following tools and libraries are installed:
 
@@ -44,7 +44,7 @@ Python 3.7+
 
 Jupyter Notebook or JupyterLab
 
-# Required Python Libraries:
+## Required Python Libraries:
 
 pandas
 
@@ -57,26 +57,26 @@ seaborn
 pandas_profiling
 
 
-### Installation
+## Installation
 
-# Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/yourusername/titanic-eda.git
 cd titanic-eda
 
-# Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
-# Launch the Jupyter Notebook:
+### Launch the Jupyter Notebook:
 
 jupyter notebook
 
 Open EDA-checkpoint.ipynb to start the analysis.
 
-### Usage
+## Usage
 
-# The repository includes the following key files:
+### The repository includes the following key files:
 
 EDA-checkpoint.ipynb: Jupyter Notebook for Titanic dataset analysis.
 
@@ -84,29 +84,29 @@ titanic.csv: Dataset used for the analysis.
 
 Follow the notebook steps to explore the dataset and visualize insights.
 
-### Key Insights
+## Key Insights
 
-# Demographics and Survival:
+### Demographics and Survival:
 
 Passengers in Class 3 had the highest mortality rate, while Class 1 had the highest survival rate.
 
 Females had a significantly higher survival rate compared to males.
 
-# Age Distribution:
+### Age Distribution:
 
 A wide range of ages is observed, with some age groups showing a higher survival rate.
 
-# Missing Data:
+### Missing Data:
 
 Several columns have missing values (e.g., Age, Cabin). Missing data handling is critical for analysis.
 
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
 
-### License
+## License
 
 This repository is open-source and available under the MIT License.
 
